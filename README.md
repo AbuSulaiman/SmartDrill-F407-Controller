@@ -25,3 +25,5 @@ An industrial-grade closed-loop AC phase-angle motor controller built around the
 
 ## How to Flash
 Flash `build/SmartDrill_F407.hex` to the **STM32F407VET6** using **STM32CubeProgrammer** via ST-Link V2.
+## Circuit Schematic
+![SmartDrill Schematic](schematic.png)
