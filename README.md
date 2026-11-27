@@ -1,3 +1,4 @@
+<img width="2362" height="1672" alt="SmartDrill-F407-Controller" src="https://github.com/user-attachments/assets/ca43857f-981e-43ca-8c4d-375bf86c966c" />
 ﻿# SmartDrill OS — STM32F407 Industrial AC Motor & Drill Controller
 
 An industrial-grade closed-loop AC phase-angle motor controller built around the **STM32F407VET6** microcontroller, featuring a responsive **ILI9341 TFT Touch UI**, real-time RPM monitoring, and a dual-layer hardware/software **Latching Emergency Stop (E-Stop)** system.
