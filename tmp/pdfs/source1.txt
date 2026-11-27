@@ -1,0 +1,105 @@
+
+PAGE 1
+Rouaa Albalkhi
+12. November 2026 1 / 6
+B.Sc. NanoEngineering, 7 . Semester, Universität Duisburg-Essen
+2DHalbleiter: Transfer, Raman, PL, Co-Autorin in Small
+Ziel: Pflichtpraktikum ab 1. April 2027 , mikroelektronische Systeme und Sensorik
+
+PAGE 2
+Vom Studium zur Publikation
+2 / 6
+Okt. 2023
+Studienbeginn
+Sep. 2025
+Tutorin &
+Hilfskraft WET
+2025 / 2026
+Bachelorprojekt 
+1,3
+Mai–Aug. 2026
+Praktikum in
+UofA Kanada
+2026
+Paper in Small
+
+PAGE 3
+WS₂/Cu₂O Interlayer-Exziton oder Defektemission?
+Quelle: Kharsah et al. 2026, S.3 FIGURE 1 b),c)
+3 / 6
+PROZESSABLAUF
+Ergebnis: Emission defektdominiert, Interlayer-Exziton nicht 
+belegt.
+Transfer Raman & PL Tieftemperatur
+Emission bei 1,66eV bei RT
+Spannungsabh. 
+PLLaser: 457nm
+
+
+PAGE 4
+Begründung:
+4 / 6
+Deutung: Ladungstransfer in Defektzustände
+Sinkt bei steigender Spannung, verschwindet nicht 
+ein freies ILX würde vom Feld sofort zerrissen und 
+vollständig gelöscht. 
+Kurze Lebensdauer (TRPL): Zerfallszeiten 
+unter 1ns, ILX leben deutlich länger.  
+Quelle: Kharsah et al. 2026, S.3 FIGURE 3 c)
+
+PAGE 5
+CISS Chirality-Induced Spin Selectivity
+Forschungspraktikum in University of Alberta
+Quelle: Poster Rouaa Albalkhi, UofA
+5 / 6
+Frage: Spin filtern bei Raumtemperatur, ohne Magnet?
+Zwei Graphen-Lagen mit definiertem Twist-Winkel und 
+hBN als Isolator
+Meine Rolle: Präziser Aufbau des Stapels durch 
+Transfer
+Spintronik = extrem tiefe Temperaturen & Magnetfelder 
+Spintronik bei RT  Energiesparend  
+
+
+PAGE 6
+Was ich mitbringe und lernen will
+6 / 6
+Ich bringe mit Ich will lernen
+Halbleiterprozesse und 
+Sensorfertigung im industriellen 
+Umfeld.
+Meine Fragen
+• Erfahrung mit 2DMaterialien
+• Raman, PL 
+• Auswertung in Origin
+• Reinraum-Grundlagen: 
+Photolithografie, Aufdampfen, 
+Transfer von Gr
+• Welches Projekt und welche 
+Ausrichtung?
+• Wie sieht die Betreuung aus?
+• Wie arbeitet die Gruppe?
+
+PAGE 7
+
+
+PAGE 8
+Verhalten bei negativer Spannung V < 0
+● starke Bandbiegung zieht die photoangeregten 
+Elektronen rasch aus dem Bauelement ab 
+● Dadurch entleeren sich die Defektzustände an der 
+Grenzﬂäche und die Defektemission bricht schnell ein. 
+Verhalten bei positiver Spannung V > 0
+● Das angelegte positive Feld treibt Elektronen bevorzugt 
+aus der Grenzfläche tiefer in das Innere des Cu2O 
+Substrat
+● Durch den schnellen Transport durch das Substrat sinkt 
+die Wahrscheinlichkeit, dass Elektronen an den 
+Grenzflächendefekten eingefangen werden 
+Anhang: 
+
+PAGE 9
+Transfer: 
+
+PAGE 10
+Interface-Modified Defect Emission 

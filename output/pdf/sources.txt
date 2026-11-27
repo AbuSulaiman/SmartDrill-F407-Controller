@@ -1,0 +1,6 @@
+BTA24: https://www.st.com/resource/en/datasheet/bta24.pdf
+MOC3052M: https://www.onsemi.com/pdf/datasheet/moc3052m-d.pdf
+H11AA1: https://www.vishay.com/docs/83608/h11aa1.pdf
+SN74LVC1G17: https://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf
+STM32G431CB: https://www.st.com/resource/en/datasheet/stm32g431cb.pdf
+BSS138: https://www.onsemi.com/pdf/datasheet/bss138-d.pdf

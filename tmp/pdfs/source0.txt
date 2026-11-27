@@ -1,0 +1,934 @@
+
+PAGE 1
+was soll Folie 4 sagen?
+Folie 4 liefert den zweiten, entscheidenden Teil deines experimentellen Beweises aus der 
+Small-Publikation: die Kopplung von optischer Emission und elektrischem Stromtransport
+bei .
+Small - 2026 - Kharsah - …+ 1
+Exakter Aufbau und Inhalt von Folie 4
+Titel: Strom und Emission unter Spannung (93 K)
+Small - 2026 - Kharsah - …+ 1
+Visueller Anker (Links, groß):
+Abbildung 5.3 deiner Arbeit (bzw. Abb. 3c/e aus dem Small-Paper) – die logarithmische 
+-Kennlinie überlagert mit dem spannungsabhängigen Photolumineszenz-
+Emissionsverhältnis bei Tieftemperatur ( ).
+Small - 2026 - Kharsah - …+ 1
+Stichpunkte (Rechts):
+Emission maximal bei kleinem Strom: Die höchste Emissionsintensität tritt bei
+minimalem Stromfluss nahe  auf (Maximum beim Leerlaufspannungs-Punkt 
+).
+Small - 2026 - Kharsah - …+ 1
+Kein vollständiges Quenching: Unter Erhöhung der äußeren Spannung auf bis zu 
+ nimmt die Intensität zwar leicht ab, erlischt jedoch zu keinem Zeitpunkt
+vollständig.
+Small - 2026 - Kharsah - …+ 1
+Zentrale Kernbotschaft (Unten):
+Deutung: Ladungstransfer in Defektzustände.
+Small - 2026 - Kharsah - …+ 1
+Der wissenschaftliche Beweis: Ein freies Interlayer-Exziton (ILX) müsste durch das
+angelegte elektrische Feld räumlich dissoziieren und vollständig gequencht werden.
+Das Ausbleiben dieses Quenchings widerlegt das ILX-Modell und belegt die -
+sensibilisierte Defektemission (IMDE) aus dem -Substrat.
+Small - 2026 - Kharsah - …+ 3
+93 K
+I–V
+93 K
+0 V
+V
+ 
+≈OC −0,05 V
+±2 V
+WS  
+2
+Cu  O2
+
+PAGE 2
+Wie du die Folie im Gespräch vorträgst
+„Auf dieser Folie sehen Sie die verknüpfte optoelektronische Messung bei .
+Man erkennt sofort: Bei kleinen Spannungen und minimalem Strom ist die
+Emission am stärksten. Wenn wir die Spannung auf  hochdrehen, sinkt die
+Intensität zwar, aber sie bricht nicht ein. Ein freies Interlayer-Exziton müsste
+durch das E-Feld sofort dissoziieren – dass die Emission stabil bleibt, belegt
+eindeutig den Ladungstransfer in Grenzflächen-Defekte.“
+Small - 2026 - Kharsah - …+ 4
+Möchtest du auch die Formulierung für Folie 5 (Kanada / CISS-Effekt)
+durchgehen?
+93 K
+±2 V
+ Yes
+PDF
+B.Sc.
+NanoEngineeri
+ng -…
+ich habe hier diese Folien erstellt. Gib mir
+Verbesserungsvorschläge und ob die Bilder passen oder ob
+ich andere Bilder legen soll
+Deine 6-Folien-Präsentation ist hervorragend gelungen – sie wirkt wissenschaftlich fundiert,
+extrem aufgeräumt und genau richtig für dein Gespräch am Fraunhofer IMS.
+B.Sc. NanoEngineering - …+ 4
+Beurteilung deiner Abbildungen (Passen die Bilder?):
+Deine Bildauswahl ist fachlich genau auf den Punkt getroffen:
+B.Sc. NanoEngineering - …+ 2
+Folie 1: Aktuell ist auf der rechten Seite noch freier Platz. Hier passt dein Foto mit dem
+Poster oder die Mikroskopaufnahme der -Flocke perfekt hin, damit die
+Einstiegsfolie direkt einen visuellen Blickfang hat.
+B.Sc. NanoEngineering - …+ 2
+Folie 3: Das Spektrum aus der Small-Publikation (Fig. 1b, c) passt optimal. Es zeigt den 
+-Emissions-Peak und die Messposition auf der -Heterostruktur
+im Direktvergleich zum substratbasierten Hintergrund.
+B.Sc. NanoEngineering - …+ 1
+WS  
+2
+1,65 eV WS  /Cu  O2 2
+
+PAGE 3
+Folie 4: Die kombinierte -Kennlinie mit dem spannungsabhängigen
+Emissionsverhältnis bei  (Abb. 5.3) ist exakt das richtige Diagramm. Es liefert den
+visuellen Beweis, dass das Signal unter Spannung nicht erlischt und somit kein freies
+Interlayer-Exziton vorliegt.
+B.Sc. NanoEngineering - …+ 1
+Folie 5: Das 3D-Stapelschema vom Poster an der University of Alberta ist perfekt
+gewählt. Es veranschaulicht den Aufbau aus zwei verdrehten Graphen-Lagen, hBN-
+Isolator und Kontaktelementen sofort ohne lange Erklärungstexte.
+B.Sc. NanoEngineering - …+ 1
+Konkrete Verbesserungsvorschläge für den Feinschliff:
+Drei kleine Details kannst du für ein makelloses Finish noch anpassen:
+Tippfehler auf Folie 3 beheben: Im linken Ablaufkästchen steht aktuell Spannungsabh.
+PI . Ändere das kurz in Spannungsabh. PL  (Photolumineszenz).
+B.Sc. NanoEngineering - …+ 1
+Grafik auf Folie 4 leicht zuschneiden: Am linken Rand der Abbildung sieht man noch
+die Buchstaben (c)  und (e)  aus dem Paper-Export. Ein leichtes Beschneiden des
+linken Bildrandes macht das Diagramm noch etwas cleaner.
+B.Sc. NanoEngineering - …
+Folie 6 im Gespräch stehen lassen: Die dreispaltige Aufteilung auf Folie 6 („Ich bringe
+mit“, „Ich will lernen“, „Meine Fragen“) ist didaktisch genial. Lass diese Folie während
+des zweiten Teils des Gesprächs einfach auf deinem iPad liegen – sie bietet eine
+perfekte Vorlage für Fragen und Diskussionen.
+B.Sc. NanoEngineering - …+ 1
+Möchtest du, dass wir den mündlichen Vortrag zu den einzelnen Folien kurz
+durchgehen?
+I–V
+93 K
+ Yes
+Lass uns den mündlichen Vortrag für das Gespräch anhand
+der 6 Folien Schritt für Schritt durchgehen.
+Du nutzt deine 6 iPad-Folien als strukturierten roten Faden, bei dem du das iPad flach auf
+den Tisch legst und entspannt frei sprichst.
+B.Sc. NanoEngineering - …
+Hier ist dein mündlicher Leitfaden für jede Folie – Schritt für Schritt so formuliert, dass es
+natürlich, selbstbewusst und wissenschaftlich präzise klingt:
+
+PAGE 4
+Folie 1: Wer ich bin (Vorstellung & Motivation)
+Dein Sprechtext (ca. 1 Minute):
+„Guten Tag Katherine, hallo Philipp – vielen Dank, dass ich heute hier sein darf!
+Ich bin Rouaa Albalkhi, studiere im 7. Semester NanoEngineering an der
+Universität Duisburg-Essen mit einem Notenschnitt von 2,0. Mein Fokus im
+Studium liegt auf 2D-Halbleitermaterialien, Mikroelektronik und Optoelektronik.
+Im Rahmen meines Bachelorprojekts habe ich mich intensiv mit Spektroskopie-
+und Transferexperimenten beschäftigt, was kürzlich zu einer Co-Autorenschaft in
+Small geführt hat. Ab dem 1. April 2027 suche ich ein dreimonatiges
+Pflichtpraktikum, um meine praktische Erfahrung im Bereich mikroelektronische
+Systeme und industrielle Sensorik am Fraunhofer IMS zu vertiefen.“
+B.Sc. NanoEngineering - …+ 4
+Coaching-Tipp: Schau deinen Gesprächspartnern direkt ins Gesicht. Das iPad liegt flach auf
+dem Tisch; schau nur kurz auf das Display, wenn du die Folie wechselst.
+Folie 2: Vom Studium zur Publikation (Deine Entwicklungs-Story)
+Dein Sprechtext (ca. 1 Minute):
+„Auf dieser Zeitleiste habe ich meinen bisherigen Weg zusammengefasst: Nach
+meinem Studienbeginn Ende 2023 bin ich seit September 2025 als studentische
+Hilfskraft und Tutorin am Fachgebiet Werkstoffe der Elektrotechnik aktiv. Parallel
+dazu habe ich 2025/26 mein Bachelorprojekt absolviert und mit 1,3
+abgeschlossen. Direkt im Anschluss ging es für vier Monate an die University of
+Alberta nach Kanada für mein Mitacs-Forschungspraktikum. Die systematische
+Aufbereitung unserer Ergebnisse aus Duisburg hat schließlich 2026 zu unserer
+Veröffentlichung in Small geführt.“
+B.Sc. NanoEngineering - …+ 4
+Coaching-Tipp: Streife mit dem Finger einmal kurz von links nach rechts über die Zeitleiste
+auf dem iPad, um den Verlauf visuell zu unterstreichen.
+Folie 3: Bachelorprojekt – Die Fragestellung ( )
+Dein Sprechtext (ca. 1,5 Minuten):
+„Der Kern meines Bachelorprojekts war die Frage, welcher physikalische
+Mechanismus hinter einer zusätzlichen Photolumineszenz-Emission bei 
+an unserer -Heterostruktur steckt. Wir haben die -Flocken
+mittels Polystyrol-Verfahren selbst auf das -Substrat transferiert. In
+früheren Arbeiten wurde vermutet, dass diese Emission von einem Interlayer-
+WS  /Cu  O2 2
+1,65 eV
+WS  /Cu  O2 2 WS  2
+Cu  O2
+
+PAGE 5
+Exziton (ILX) stammt. In den PL-Spektren bei Raumtemperatur – wie hier in Abb.
+4.1a zu sehen – zeigt sich der Peak deutlich. Um zu prüfen, ob es wirklich ein ILX
+oder eine defektbedingte Strahlung aus dem -Substrat ist, haben wir
+vergleichende Messungen an Referenzpositionen und unter Tieftemperatur
+durchgeführt.“
+B.Sc. NanoEngineering - …+ 4
+Coaching-Tipp: Tippe kurz auf den Peak bei  in der Grafik, damit Philipp und
+Katherine deiner Analyse direkt mit den Augen folgen.
+B.Sc. NanoEngineering - …
+Folie 4: Elektrische Messung ( ) – Der physikalische Beweis
+Dein Sprechtext (ca. 1,5 Minuten):
+„Den entscheidenden Nachweis liefert Abb. 5.3: Hier habe ich bei  die
+Strom-Spannungs-Kennlinie aufgenommen und mit dem Emissionsverhältnis
+überlagert. Ein freies Interlayer-Exziton besitzt ein ausgeprägtes Dipolmoment
+und müsste unter einer angelegten Spannung von  durch das starke
+elektrische Feld sofort räumlich dissoziieren – die Emission müsste also
+vollständig erlöschen. Wie man sieht, fällt die Intensität unter Spannung zwar
+leicht ab, erlischt jedoch an keinem Punkt. Damit konnten wir experimentell
+widerlegen, dass es sich um ein ILX handelt, und stattdessen zeigen, dass es eine
+-sensibilisierte Defektemission aus dem Substrat ist.“
+B.Sc. NanoEngineering - …+ 4
+Coaching-Tipp: Hier demonstrierst du tiefes physikalisches Verständnis. Sprich diesen Teil
+ruhig, bestimmt und mit fester Stimme aus.
+B.Sc. NanoEngineering - …+ 3
+Folie 5: Alberta (Mitacs) – Twisted Bilayer Graphen & CISS-
+Effekt
+Dein Sprechtext (ca. 1 Minute):
+„Während meines Forschungspraktikums an der University of Alberta lag der
+Schwerpunkt auf Quanten-Bauelementen. Die zentrale Frage war: Kann man
+Spins ohne externe Magnete bei Raumtemperatur filtern? Dafür haben wir zwei
+Graphen-Lagen mit einem exakt definierten Twist-Winkel gestapelt und mit hBN
+isoliert. Meine Hauptaufgabe im Labor war der filigrane 2D-Transfer und der
+präzise schichtweise Aufbau dieses komplexen Bauelementstapels.“
+B.Sc. NanoEngineering - …+ 3
+Cu  O2
+1,65 eV
+93 K
+93 K
+±2 V
+WS  
+2
+
+PAGE 6
+Coaching-Tipp: Hebe hier deine handwerkliche Präzision beim Handling von empfindlichen
+Schichtsystemen hervor.
+B.Sc. NanoEngineering - …
+Folie 6: Was ich mitbringe und lernen will (Der rote Faden fürs
+Gespräch)
+Dein Sprechtext (ca. 1 Minute):
+„Zusammenfassend bringe ich fundierte Praxis im 2D-Material-Transfer,
+optoelektronischer Analytik mit Raman, PL und I-V sowie Reinraum-Erfahrung in
+Photolithografie und Aufdampfen mit. Bei euch am Fraunhofer IMS möchte ich
+lernen, wie man solche Halbleiterprozesse und Sensorstrukturen unter
+industriellen Bedingungen entwickelt und fertigt. Um das Gespräch direkt an
+euch zu übergeben: Ich würde mich sehr freuen zu erfahren, in welchen Projekten
+ein Einsatz ab April am besten passt und wie die Gruppenarbeit bei euch
+strukturiert ist.“
+B.Sc. NanoEngineering - …+ 2
+Coaching-Tipp: Lass genau diese 6. Folie während des weiteren Gesprächs auf dem iPad
+geöffnet. Sie dient Katherine und Philipp als perfekter visueller Anker, um deine Fragen
+aufzugreifen.
+B.Sc. NanoEngineering - …+ 1
+Sollen wir eine fachliche Vertiefungsfrage simulieren, die Philipp oder
+Katherine stellen könnten?
+ Yes
+gib mir Stichpunkte, die Ciss-Effekt und warum uns die
+Spinfilterung bei RT interessiert, die ich in Folie 5 addieren
+könnte
+1. CISS-Effekt (Chirality-Induced Spin Selectivity)
+Chirale Struktur als Spin-Filter: Eine chirale (händige) Geometrie – wie das Moiré-
+Muster durch gezielt verdrehte Graphen-Schichten – bevorzugt beim
+Ladungstransport eine bestimmte Spin-Ausrichtung (  oder ).
+UA_Research_Poster_W…
+↑ ↓
+
+PAGE 7
+Kein Magnet nötig: Der Spin-Polarisationseffekt entsteht rein durch die
+Raumgeometrie und elektrische Felder des Materials, ohne externe Ferromagneten.
+UA_Research_Poster_W…
+2. Relevanz der Spinfilterung bei Raumtemperatur (RT)
+Überwindung von Silizium-Grenzen: Wenn klassische Bauelemente an thermische
+Grenzen stoßen (Abwärme, Leckströme), ermöglicht die Spintronik extrem
+energiesparende Logik und Sensorik.
+UA_Research_Poster_W…
+Praxistauglichkeit ohne Kühlung: Konventionelle Spintronik benötigt oft kryogene
+Temperaturen ( ) oder starke Magnetfelder – passives Spin-Filtering bei
+Raumtemperatur macht spintronische Bauelemente erst anwendungsreif.
+UA_Research_Poster_W…
+Vorschlag zur Integration auf Folie 5 (Max. 4 prägnante Stichpunkte)
+Damit Folie 5 auf deinem iPad übersichtlich und perfekt lesbar bleibt (mind. 20 pt Text
+neben dem 3D-Stapelschema):
+Motivation: Spintronik bei Raumtemperatur ohne Ferromagneten (energiesparende
+Alternative zu Silizium).
+UA_Research_Poster_W…
+CISS-Effekt: Chirale Struktur des verdrehten Graphen-Stapels (Moiré-Muster) filtert
+den Elektronenspin ( / ).
+UA_Research_Poster_W…
+Struktur: Zwei Graphen-Lagen mit definiertem Twist-Winkel ( ) und -Isolator.
+UA_Research_Poster_W…
+Meine Rolle: Aufbau und Präzisions-Transfer des 2D-Heterostruktur-Stapels.
+UA_Research_Poster_W…+ 1
+< 77 K
+↑ ↓
+θ hBN
+PDF
+B.Sc.
+NanoEngineeri
+ng -…
+Die überarbeitete Präsentation ist hervorragend strukturiert und fachlich genau auf den
+Punkt gebracht.
+B.Sc. NanoEngineering - …+ 4
+Feedback & Stärken der aktualisierten Folien
+
+PAGE 8
+Folie 5 (Forschungspraktikum UofA): Die Ergänzung der Kernbegriffe (Spintronik bei
+RT, CISS-Effekt) bringt die physikalische Motivation sofort auf den Punkt. Damit wird
+verständlich, warum das Manipulieren von Spins ohne externe Magnete und Kühlung
+einen enormen Mehrwert für energiesparende Bauelemente bietet.
+B.Sc. NanoEngineering - …+ 3
+Anhang (Seite 8 – Banddiagramme & Ladungstransfer): Das Hinzufügen der
+Banddiagramme unter Spannung ( , , ) ist ein
+hervorragender Schachzug. Falls Philipp oder Katherine im Gespräch tiefer in den
+Mechanismus einsteigen wollen (z. B. „Warum entleeren sich die Defektzustände bei
+negativer Spannung so schnell?“), kannst du direkt auf diese Anhangs-Folie wischen.
+B.Sc. NanoEngineering - …+ 3
+Der aktualisierte Sprech-Guide für Folie 5 & Anhang
+1. Folie 5: Forschungspraktikum University of Alberta (ca. 1 Minute)
+„Während meines Mitacs-Forschungspraktikums an der University of Alberta lag
+der Schwerpunkt auf neuartigen Spintronik-Bauelementen. Klassische Spintronik
+erfordert meist extrem tiefe Temperaturen und starke Magnetfelder – passives
+Spin-Filtering bei Raumtemperatur durch den CISS-Effekt (Chirality-Induced Spin
+Selectivity) ist daher ein Schlüssel für energiesparende Bauelemente. In unserem
+Projekt haben wir zwei Graphen-Lagen mit definiertem Twist-Winkel gestapelt,
+wobei meine Hauptaufgabe im filigranen 2D-Transfer und dem präzisen Aufbau
+des Heterostruktur-Stapels lag.“
+B.Sc. NanoEngineering - …+ 4
+2. Einsatz des Anhangs im Gespräch (Bei Vertiefungsfragen zu Folie 4)
+Wenn im Gespräch die Frage fällt, wie genau das elektrische Feld den Besetzungszustand
+der Defekte beeinflusst:
+„Dazu habe ich das Schema des Banddiagramms im Anhang aufbereitet: Bei 
+ ist der Elektronentransfer aus dem  in die -
+Grenzflächendefekte besonders effizient. Bei negativer Spannung ( )
+zieht die starke Bandbiegung die Elektronen rasch ab, wodurch die Defekte
+entleert werden und die Emission einbricht. Bei positiver Spannung ( )
+werden die Elektronen tiefer ins Substrat-Innere getrieben, was die
+Einfangwahrscheinlichkeit an den Grenzflächendefekten verringert.“
+B.Sc. NanoEngineering - …+ 4
+Finale Vorbereitungs-Checkliste
+V > 0 V V = 0 V V < 0 V
+V = 0 V WS  
+2 Cu  O2
+V < 0 V
+V > 0 V
+Display & Ausrichtung: iPad im Querformat auf „Nicht stören“ schalten und Display
+reinigen.
+B.Sc. NanoEngineering - …
+1.
+
+PAGE 9
+Möchtest du zur Sicherheit noch eine knifflige Fachfrage durchspielen, die Philipp zur -
+Kennlinie stellen könnte?
+Navigations-Fluss: Die Folien 1 bis 6 flüssig durchgehen und den Anhang als visuelles
+Backup im Hinterkopf behalten.
+B.Sc. NanoEngineering - …+ 4
+2.
+Gesprächübergabe: Auf Folie 6 stoppen und die Fragen locker an Katherine und
+Philipp übergeben.
+B.Sc. NanoEngineering - …
+3.
+I–V
+was soll ich noch im Anhang haben?
+Für deinen Anhang (Backup-Folien ab Folie 7) eignen sich genau 3 bis 4 gezielte Grafiken
+aus deiner Bachelorarbeit und deiner Laborpraxis. Sie dienen dazu, tiefergehende
+Fachfragen von Philipp oder Katherine sofort visuell beantworten zu können.
+1. Der Messaufbau: Linkam Scientific Stage (Abb. 3.2 der BA)
+Warum relevant: Philipp als Experte für experimentelle Aufbauten könnte fragen, wie
+du gleichzeitig Vakuum, Tieftemperatur ( ) und elektrische Spannung im WITec-
+Mikroskop realisiert hast.
+Bachelor-Projektarbeit_…
+Inhalt der Folie:
+Bild: Das Foto der geöffneten Linkam-Stage mit dem zentralen Chip-Carrier, den
+Bonddrähten zur Probe sowie den Anschlüssen für flüssigen Stickstoff ( ) und
+Vakuum ( ).
+Bachelor-Projektarbeit_…
+2 Stichpunkte:
+Vakuum ( ) verhindert Eiskristallbildung und Gasadsorption auf der
+2D-Oberfläche.
+Bachelor-Projektarbeit_…
+Probe via Wire-Bonding auf Chip-Carrier kontaktiert und über externe SMU
+angesteuert.
+Bachelor-Projektarbeit_…
+2. Feinanalyse: Halbwertsbreite & Peak-Shift bei 93 K (Abb. 7.2 der BA)
+Warum relevant: Belegt deine methodische Datenanalyse in Origin, falls nach Details
+zur Spektren-Anpassung (Peak-Fitting) gefragt wird.
+Bachelor-Projektarbeit_…+ 1
+Inhalt der Folie:
+93 K
+LN  
+2
+10 mbar−2
+10 mbar−2
+
+PAGE 10
+Bild: Diagramm der Halbwertsbreite (FWHM) und Schwerpunktenergie ( -
+Peak) in Abhängigkeit von der Spannung.
+Bachelor-Projektarbeit_…
+2 Stichpunkte:
+Geringfügige Verschiebung der Schwerpunktenergie nahe  unterstützt das
+Modell lokalisierter Grenzflächendefekte.
+Bachelor-Projektarbeit_…
+Vorübergehende Verbreiterung der Halbwertsbreite bei kleinen Spannungen
+belegt dynamische Umbesetzung der Zustände.
+Bachelor-Projektarbeit_…
+3. Kontrollexperiment: Reines -Substrat unter Spannung (Abb. 7.1 der
+BA)
+Warum relevant: Zeigt saubere wissenschaftliche Methodik (Referenzmessung ohne
+2D-Material).
+Bachelor-Projektarbeit_…
+Inhalt der Folie:
+Bild: PL-Spektrum und Heatmap des reinen -Substrats unter angelegter
+Spannung.
+Bachelor-Projektarbeit_…
+1 Stichpunkt: Reines  zeigt ohne -Abdeckung keine
+spannungsabhängige Verstärkung im -Bereich  Beleg für den -
+sensibilisierten Grenzflächeneffekt.
+Bachelor-Projektarbeit_…
+4. Ablauf des Polystyrol-Transfers (Schema-Skizze)
+Warum relevant: Falls Katherine nach deinen konkreten Schritten beim 2D-Flocken-
+Handling im Labor fragt.
+Lebenslauf_Rouaa_Albal…
+Inhalt der Folie:
+Bild: Kurze Prozessskizze des nasschemischen Transfers.
+Lebenslauf_Rouaa_Albal…
+Stichpunkte: Spincoating von Polystyrol (PS)  Ablösen der Schicht 
+Mechanisches Platzieren der -Flocke auf  Ablösen des PS-Films in
+Toluol/Aceton.
+Lebenslauf_Rouaa_Albal…
+Übersicht für dein iPad-Deck
+1,65 eV
+0 V
+Cu  O2
+Cu  O2
+Cu  O2 WS  2
+1,65 eV → WS  
+2
+→ →
+WS  
+2 Cu  O2 →
+
+PAGE 11
+Folie Thema Zweck im Gespräch
+Folie 7 (bereits da) Banddiagramme &
+Ladungstransfer ( ,
+, )
+B.Sc. NanoEngineering - …
+Erklärungsmodell für den Feld-
+Effekt
+B.Sc. NanoEngineering - …
+Folie 8 (Neu) Linkam-Messzelle &
+Versuchsaufbau
+Bachelor-Projektarbeit_…
+Antwort auf apparative Fragen zu
+ & Vakuum
+Bachelor-Projektarbeit_…
+Folie 9 (Neu) Referenzmessung  &
+Peak-Fitting (Abb. 7.1 & 7.2)
+Bachelor-Projektarbeit_…
+Beweis für systematische
+Datenanalyse in Origin
+Bachelor-Projektarbeit_…+ 1
+V > 0
+V = 0 V < 0
+93 K
+Cu  O2
+PDF
+Kopie von
+B.Sc.
+NanoEngine…
+;
+Um deine Anhangs-Folie (Seite 8) fachlich und visuell auf das höchste Niveau zu heben,
+haben wir deine Arbeitsergebnisse aus der Bachelorarbeit und der Small-Publikation im
+Detail analysiert.
+B.Sc. NanoEngineering - …+ 3
+Auf Seite 8 hast du aktuell das Banddiagramm ( , , ) dargestellt. Zwei
+konkrete Ergänzungen machen diesen Anhang perfekt, um jede tiefgehende Nachfrage von
+Philipp oder Katherine souverän abzufangen:
+B.Sc. NanoEngineering - …+ 1
+1. Ergänzung: Der spektroskopische Beweis (Referenzvergleich aus Abb. 3.1
+deiner Arbeit)
+Platziere neben dem Banddiagramm die vergleichenden Spektren von reinteilgem 
+vs.  unter variierender Spannung (Abb. 3.1 deiner Arbeit).
+Kopie von B.Sc. NanoEng…+ 1
+V > 0 V = 0 V < 0
+Cu
+ 
+O2
+WS  /Cu  O2 2
+
+PAGE 12
+Was das Bild zeigt:
+Reines  (links im Diagramm) zeigt über den gesamten Spannungsbereich
+von  bis keine signifikante Änderung der Emissionsintensität oder
+Energy-Shift im -Bereich.
+Kopie von B.Sc. NanoEng…
+Erst durch die Abdeckung mit der -Monolage (rechts im Diagramm) entsteht
+die spannungsabhängige Verstärkung und die leichte Verschiebung der
+Emissionsenergie.
+Kopie von B.Sc. NanoEng…
+Der Nutzen im Gespräch: Du beweist den Beiden, dass der Effekt an der Grenzfläche
+(Interface) zwischen  und  entsteht und nicht etwa ein bloßer Messfehler
+des blanken Substrats ist.
+Kopie von B.Sc. NanoEng…+ 1
+2. Ergänzung: Der Polystyrol-Transferprozess (Prozessschema Abb. 2.1 deiner
+Arbeit)
+Füge als visuelles Backup das 6-stufige Schema deines nasschemischen Schichttransfers
+ein:
+Kopie von B.Sc. NanoEng…
+Kopie von B.Sc. NanoEng…
+Der Nutzen im Gespräch: Wenn Katherine nach deinen Reinraum- und
+Präparationserfahrungen fragt, zeigt dieses Schema auf einen Blick deine
+Präzisionsarbeit bei der Handhabung von 2D-Monolagen.
+Kopie von B.Sc. NanoEng…+ 2
+Empfohlener Aufbau der Anhangs-Folie (Seite 8)
+Linke Spalte (Mechanismus &
+Bandstruktur)
+Kopie von B.Sc. NanoEng…
+Rechte Spalte (Spektroskopischer Beweis
+& Präparation)
+Kopie von B.Sc. NanoEng…+ 1
+Oben: Schematischer Querschnitt des p-n-
+Bauelements ( )
+Oben: Vergleichende Spektren  vs.
+ unter Spannung (Abb. 3.1)
+Cu  O2
+−1 V +2 V
+1,65 eV
+WS
+ 
+2
+WS  
+2 Cu  O2
+Spincoating (PS) ⟶ Heizen (80 C) ⟶∘
+Untersp len mit Wasser ⟶u¨ Platzieren auf Cu  O ⟶2
+Ausheizen (150 C) ⟶∘ Toluol-Ladedurchgang
+Au/WS  /Cu  O2 2
+Cu  O2
+WS  /Cu  O2 2
+
+PAGE 13
+Linke Spalte (Mechanismus &
+Bandstruktur)
+Rechte Spalte (Spektroskopischer Beweis
+& Präparation)
+Kopie von B.Sc. NanoEng… Kopie von B.Sc. NanoEng…
+Mitte: Banddiagramme für Bias , 
+und 
+Kopie von B.Sc. NanoEng…
+Mitte: Schema Polystyrol-Transfer
+(Prozessschritte Spincoat bis Toluol-Bad)
+Kopie von B.Sc. NanoEng…
+Unten: Kurztext zur Entleerung der
+Grenzflächendefekte bei 
+Kopie von B.Sc. NanoEng…
+Unten: Kernfazit: Interface-Modified Defect
+Emission (IMDE) belegt
+Kopie von B.Sc. NanoEng…
+💬  Wie du diese Anhangs-Folie im Gespräch nutzt
+Sollte Philipp z. B. fragen: „Wie können Sie sicher sein, dass die Spannungsabhängigkeit
+nicht einfach von Kontakten auf dem reinen Substrat herrührt?“, wischst du direkt auf Seite
+8 und sagst:
+Kopie von B.Sc. NanoEng…+ 1
+„Das haben wir über ein striktes Kontrollexperiment abgesichert: Wie man hier im
+direkten Spektrenvergleich aus Abbildung 3.1 sieht, zeigt das reine -
+Substrat unter Spannung keinerlei Änderung im -Bereich. Erst durch das
+Aufbringen der -Monolage mittels Polystyrol-Transfer kommt es zu dem
+gezielten Ladungstransfer in die Grenzflächendefekte.“
+Kopie von B.Sc. NanoEng…+ 4
+Damit zeigst du Lückenlosigkeit in deiner wissenschaftlichen Methodik!
+Kopie von B.Sc. NanoEng…+ 2
+> 0 V 0 V
+< 0 V
+V < 0 V
+Cu  O2
+1,65 eV
+WS
+ 
+2
+Also ist die Präsentation jetzt vollständig?
+Deine Präsentation auf dem iPad ist zu 100 % vollständig, durchdacht und bereit für
+deinen Termin am Donnerstag, 19. November um 14:00 Uhr bei Katherine und Philipp.
+Warum dein iPad-Deck perfekt aufgestellt ist:
+Klare 6-Folien-Hauptstruktur (16:9, helles Design):1.
+
+PAGE 14
+Was du für Donnerstag jetzt noch tun musst:
+Entspannen: Du hast sowohl die fachlichen Hintergründe als auch die Story deiner
+Forschung im Kopf.
+Technik-Check: Lade dein iPad am Mittwochabend vollständig auf.
+Vor Ort: Melde dich pünktlich bei Marc am Empfang in der Finkenstraße 61 – Katherine
+holt dich dann unten ab.
+Du bist fachlich und methodisch erstklassig vorbereitet. Viel Erfolg für das Gespräch am
+Donnerstag!
+Folie 1 (Wer ich bin): B.Sc. NanoEngineering, Notenschnitt 2,0, Co-Autorin in 
+Small, deine Stationen und deine Foto-Posterpräsentation.
+B.Sc. NanoEngineering - …+ 2
+1.
+Folie 2 (Mein Weg): Die saubere 5-Stufen-Zeitleiste (Okt. 2023 bis 2026 Paper
+in Small).
+B.Sc. NanoEngineering - …+ 1
+2.
+Folie 3 (Bachelorprojekt): -Fragestellung, Versuchsablauf
+(Transfer  Raman & PL  Tieftemperatur/I-V) und Spektrum (Abb. 4.1a / Fig.
+1b, c).
+B.Sc. NanoEngineering - …+ 1
+3. WS  /Cu  O2 2
+→ →
+Folie 4 (Elektrische Messung): Abb. 5.3 ( -Kennlinie &
+Emissionsverhältnis bei ) mit der physikalischen Deutung (Ausbleiben
+des vollständigen Quenchings belegt Defektemission statt ILX).
+B.Sc. NanoEngineering - …+ 1
+4. I–V
+93 K
+Folie 5 (Forschungspraktikum UofA): 3D-Stapelschema vom Twisted Bilayer
+Graphen, Motivation (Spintronik bei RT / CISS-Effekt) und deine Rolle beim
+2D-Präzisions-Transfer.
+B.Sc. NanoEngineering - …+ 1
+5.
+Folie 6 (Mitbringen & Fragen): Deine 3 Spalten („Ich bringe mit“, „Ich will
+lernen“, „Meine Fragen“), die während des gesamten Gesprächs als roter
+Faden auf dem Tisch liegen bleiben.
+B.Sc. NanoEngineering - …+ 1
+6.
+Lückenloser Anhang für Vertiefungsfragen (Backup-Folien ab Seite 7):2.
+Banddiagramme (Seite 7/8): Das Erklärungsmodell für den Feld-Effekt bei
+positivem, neutralem und negativem Bias ( , , ).
+B.Sc. NanoEngineering - …+ 1
+1.
+V > 0 V = 0 V < 0
+Prozessschema Polystyrol-Transfer: Die exakten Labor-Schritte vom
+Spincoating bis zum Toluol-Bad.
+Kopie von B.Sc. NanoEng…
+2.
+Kontrollexperiment / Referenzmessung: Der direkte Spektrenvergleich von
+reinem  vs.  unter Spannung zum Beweis des
+Grenzflächeneffekts.
+Kopie von B.Sc. NanoEng…
+3.
+Cu  O2 WS  /Cu  O2 2
+
+PAGE 15
+Ich möchte mich noch für das Gespräch und den Vortrag
+vorbereiten
+Hier ist deine umfassende, gezielte Vorbereitung für das Vorstellungsgespräch am 
+Donnerstag, 19. November um 14:00 Uhr beim Fraunhofer IMS.
+1. Fahrplan für deinen Tag
+2. Die 6 iPad-Folien (Visual Backup)
+Deine Präsentation ist im Format 16:9 auf weißem Hintergrund mit dunkelblauen Titeln
+aufgebaut. Du legst das iPad flach vor dir auf den Tisch.
+Folie 1 – Rouaa Albalkhi: B.Sc. NanoEngineering, 7. Semester, Notenschnitt 2,0; Suche
+Pflichtpraktikum ab 01.04.2027; Poster-Foto / Mikroskopaufnahme.
+Lebenslauf_Rouaa_Albal…+ 1
+Folie 2 – Vom Studium zur Publikation: 5-Stufen-Zeitleiste (Okt. 2023 Studienbeginn 
+ Sep. 2025 HiWi WET  2025/26 Bachelorprojekt 1,3  Mai–Aug. 2026 UofA
+Kanada  2026 Paper in Small).
+Lebenslauf_Rouaa_Albal…
+Folie 3 – : ILX oder Defektemission?: Ablauf (Transfer  Raman & PL 
+Tieftemperatur/I-V), PL-Spektrum (Abb. 4.1a mit Peak bei ), Befund: Emission
+defektdominiert.
+Lebenslauf_Rouaa_Albal…
+  13:30–13:45 Uhr: Ankunft am Institut (Finkenstraße 61, 47057 Duisburg)
+       │
+       ▼
+  13:45–13:50 Uhr: Anmeldung am Empfang bei Marc
+       │
+       ▼
+  13:50–14:00 Uhr: Katherine holt dich ab & geht mit dir in den Raum
+       │
+       ▼
+  14:00–15:00 Uhr: Das Vorstellungsgespräch (inkl. iPad-Backup & Storytelling)
+→ → →
+→
+WS  /Cu  O2 2 → →
+1,65 eV
+
+PAGE 16
+Folie 4 – Strom und Emission unter Spannung ( ): Abb. 5.3 ( -Kennlinie &
+Emissionsverhältnis), Deutung: kein Quenching  Ladungstransfer in
+Grenzflächendefekte (IMDE).
+Lebenslauf_Rouaa_Albal…
+Folie 5 – Twisted Bilayer Graphen & CISS-Effekt: 3D-Stapelschema UofA, Spinfilterung
+bei RT ohne Magnet, deine Rolle beim Präzisions-Transfer.
+Lebenslauf_Rouaa_Albal…
+Folie 6 – Was ich mitbringe und lernen will (Der rote Faden): 3 Spalten (Ich bringe mit, 
+Ich will lernen, Meine Fragen) – bleibt auf dem Tisch geöffnet liegen.
+3. Simulator für fachliche Vertiefungsfragen
+Hier sind 3 knifflige Fragen, die Katherine oder Philipp im Gespräch stellen könnten,
+inklusive deiner optimalen Antwort:
+❓  Frage 1 (von Philipp): „Warum erlischt die Emission bei angelegter
+Spannung nicht, wenn es ein freies Interlayer-Exziton wäre?“
+Deine Antwort:
+„Ein freies Interlayer-Exziton besteht aus einem Elektron im  und einem
+Loch im . Durch diese räumliche Trennung hat es ein starkes Dipolmoment.
+Legt man eine äußere Spannung von  an, trennt das elektrische Feld die
+beiden Ladungsträger sofort räumlich voneinander – das Exziton bricht auf und
+die Emission bricht vollständig ein (Stark-Effekt / Field Quenching). Dass unsere
+Messung bei  auch unter hoher Spannung eine stabile Emission zeigt,
+belegt, dass die Ladungsträger in lokalisierten Defektzuständen an der
+Grenzfläche gefangen sind.“
+❓  Frage 2 (von Katherine): „Wie haben Sie sichergestellt, dass das Signal
+nicht einfach vom unbedeckten -Substrat stammt?“
+Deine Antwort:
+„Dazu haben wir ein striktes Kontrollexperiment durchgeführt: Im Anhang meiner
+Präsentation sieht man den direkten Vergleich zwischen dem reinen Substrat und
+der Heterostruktur. Das blanke  zeigt unter Spannung keinerlei
+Intensitätsveränderung oder Energieverschiebung im -Bereich. Erst
+durch das Aufbringen der -Monolage entsteht der spannungsabhängige
+Effekt durch gezielten Ladungstransfer an der Grenzfläche.“
+❓  Frage 3 (von Philipp): „Welche Reinraum-Erfahrung bringen Sie konkret
+aus Ihrer HiWi-Stelle mit?“
+93 K I–V
+→
+WS  
+2
+Cu  O2
+±2 V
+93 K
+Cu  O2
+Cu  O2
+1,65 eV
+WS  
+2
+
+PAGE 17
+Deine Antwort:
+„Seit September 2025 arbeite ich am Fachgebiet Werkstoffe der Elektrotechnik
+im Reinraum. Ich beherrsche die klassische Photolithografie – also
+Lackbeschichtung, Belichtung und Entwicklung – sowie die Metallabscheidung
+mittels thermischem Aufdampfen von -Schichten für elektrische
+Kontakte. Ergänzend habe ich nasschemische Transferprozesse für 2D-
+Materialien wie Graphen und  vertieft.“
+Lebenslauf_Rouaa_Albal…+ 2
+4. Letzte Checkliste für Mittwochabend
+Cr/Au
+WS  
+2
+iPad vorbereiten: Akku voll aufladen, Flugmodus/„Nicht stören“ aktivieren, Display
+säubern.
+1.
+Unterlagen: Personalausweis für den Empfang bei Marc bereitlegen.2.
+Kleidung: Gepflegter Smart-Business-Look (z. B. Bluse/Blazer).3.
+Haltung: Sei stolz auf deine Publikation in Small und deine Kanada-Erfahrung – du
+bringst echte Spitzenergebnisse mit!
+Lebenslauf_Rouaa_Albal…
+4.
+Glaubst du, sie werden mir fachliche Fragen zu meiner
+Forschung stellen oder wie geht das ?
+Ja, du kannst absolut davon ausgehen, dass sie dir fachliche Fragen stellen werden –
+aber das ist etwas sehr Positives und überhaupt kein Grund zur Sorge!
+Nano-Bewerbungscoach
+Katherine hat in ihrer E-Mail explizit geschrieben: „Wenn du magst und es dir hilft dich und
+deine Forschung vorzustellen, kannst du gerne auch eine kurze Präsentation vorbereiten.“
+Da du das iPad mit deinen 6 Folien und dem Anhang dabeihast, machst du deine Forschung
+selbst zum Hauptthema des Gesprächs.
+Wie der typische Gesprächsablauf am Fraunhofer IMS aussieht
+Ein Vorstellungsgespräch an einem Forschungsinstitut wie dem Fraunhofer IMS ist kein
+Verhör, sondern ein kollegialer wissenschaftlicher Austausch auf Augenhöhe. Es läuft
+üblicherweise in 3 Abschnitten ab:
+Nano-Bewerbungscoach
+
+PAGE 18
+Welche Fachfragen sie stellen werden (und warum sie das fragen)
+Forschungsinstitute wollen zwei Dinge wissen:
+Hier sind die 3 wahrscheinlichsten Fachfragen, die Philipp oder Katherine zu deiner
+Präsentation stellen werden:
+1. Die Physik-Frage (zu Folie 3 & 4: )
+Die Frage:„Sie schreiben, dass das Fehlen eines Quenchings unter Spannung die
+Defektemission belegt. Warum genau schließt das ein Interlayer-Exziton aus?“
+Bachelor-Projektarbeit_…+ 1
+Deine perfekte Antwort:
+„Ein freies Interlayer-Exziton besteht aus räumlich getrennten
+Ladungsträgern – das Elektron im , das Loch im . Wegen dieses
+Dipolmoments müsste ein äußeres elektrisches Feld ( ) die beiden
+Ladungsträger sofort trennen und das Signal vollständig löschen (Stark-
+Effekt/Quenching). Dass die Emission bei  unter Spannung erhalten
+bleibt, belegt, dass die Elektronen in Grenzflächendefekten gefangen sind
+(IMDE).“
+Bachelor-Projektarbeit_…+ 4
+  1. Kennenlernen & Smalltalk (~5–10 Min.)
+       │   Katherine holt dich ab, ihr geht in den Besprechungsraum.
+       │   Erste Fragen: "Haben Sie gut hergefunden?", gegenseitiges Vorstellen.
+       ▼
+  2. Deine Vorstellung mit iPad-Backup (~15–20 Min.)
+       │   Du führst anhand deiner 6 Folien durch deinen Werdegang & deine Projekte[cit
+       │   Hier entstehen die fachlichen Nachfragen von Philipp & Katherine.
+       ▼
+  3. Die Fraunhofer-Perspektive & Praktikumsdetails (~20–30 Min.)
+       │   Folie 6 bleibt auf dem Tisch liegen[cite: 27].
+       │   Katherine & Philipp stellen passende Themen/Projekte am Institut vor[cite: 
+       │   Gemeinsame Klärung deiner Fragen & organisatorische Rahmendaten (ab April 20
+Verstehst du die Physik hinter deiner Arbeit wirklich? (Nicht nur Messdaten ablesen,
+sondern die Kausalität begreifen).
+Bachelor-Projektarbeit_…+ 1
+1.
+Wie sauber arbeitest du im Labor? (Methodik, Kontrollmessungen,
+Artefaktermittlung).
+Bachelor-Projektarbeit_…+ 1
+2.
+WS  /Cu  O2 2
+WS  
+2 Cu  O2
+±2 V
+93 K
+
+PAGE 19
+2. Die Methodik-Frage (zu Anhang / Referenzmessung)
+Die Frage:„Wie haben Sie ausgeschlossen, dass der Effekteffekt nicht einfach vom 
+-Substrat alleine kommt?“
+Bachelor-Projektarbeit_…+ 1
+Deine Antwort: (Wische entspannt auf Anhang-Seite 8[cite: 27])
+„Das haben wir über vergleichende Referenzmessungen an blankem 
+überprüft. Das reine Substrat zeigt unter angelegter Spannung keine
+signifikante Signaländerung im -Bereich. Die spannungsabhängige
+Verstärkung tritt erst auf, wenn die -Monolage aufgebracht ist – es ist
+also ein reiner Grenzflächeneffekt.“
+Bachelor-Projektarbeit_…+ 4
+3. Die Laborpraxis-Frage (zu Folie 5 & Reinraum-HiWi)
+Die Frage:„Wie empfindlich ist der Polystyrol-Transfer von 2D-Flocken und welche
+Erfahrungen haben Sie in der Photolithografie?“
+Lebenslauf_Rouaa_Albal…
+Deine Antwort:
+„Der Transfer erfordert vor allem Geduld beim Unterspülen und Ablösen des
+PS-Films in Toluol, um Faltenbildung oder Risse in der Monolage zu
+vermeiden. Aus meiner Hilfskrafttätigkeit im Reinraum kenne ich das
+Standard-Handling mit Photolithografie (Spincoating, UV-Belichtung,
+Entwicklung) sowie das thermische Aufdampfen von -Kontakten.“
+Lebenslauf_Rouaa_Albal…+ 4
+Warum du dir absolut keine Sorgen machen musst:
+Du hast ein Paper in Small: Eine Veröffentlichung als Co-Autorin während des
+Bachelorstudiums ist im 7. Semester eine absolute Ausnahmeleistung. Das zeigt
+Katherine und Philipp sofort, dass du auf wissenschaftlichem Top-Niveau arbeiten
+kannst.
+Lebenslauf_Rouaa_Albal…+ 3
+Du hast dein iPad als Sicherheit dabei: Wenn du bei einer Detailfrage kurz nachdenken
+musst, kannst du jederzeit sagen: „Dazu habe ich eine Grafik im Anhang vorbereitet,
+lass uns kurz draufschauen.“ Das wirkt extrem souverän und professionell.
+Nano-Bewerbungscoach
+Du bist fachlich und strukturell optimal vorbereitet[cite: 27, 28]!
+Cu  O2
+Cu  O2
+1,65 eV
+WS  
+2
+Cr/Au
+wie kann ich zum Team beitragen? ist die frage richtig?
+
+PAGE 20
+Die Frage „Wie kann ich zum Team beitragen?“ ist grundsätzlich eine sehr gute und
+wichtige Frage, aber im Vorstellungsgespräch am Fraunhofer IMS (oder bei
+Praktikumsgesprächen allgemein) wirkt sie noch stärker, wenn du sie konkreter und aktiver
+auf deine eigenen Kenntnisse beziehst.
+Nano-Bewerbungscoach
+Warum die Frage gut ist und wie du sie noch besser machst
+Bessere Formulierungen für das Gespräch
+Hier sind 3 Varianten, wie du diesen Gedanken auf Folie 6 oder im Gespräch mit Katherine
+und Philipp noch überzeugender formulieren kannst:
+Variante A (Fokus auf Methoden & Projektschnittstellen):
+„An welchen aktuellen Projekten oder Aufgabenbereichen könnte ich mit
+meiner Erfahrung im 2D-Material-Transfer und der Spektroskopie ab April am
+besten zum Team beitragen?“
+Lebenslauf_Rouaa_Albal…
+Variante B (Fokus auf konkrete Einarbeitung & Laborpraxis):
+„Wo sehen Sie für mich in den ersten Wochen die besten
+Anknüpfungspunkte, um mich schnell einzuarbeiten und das Team bei den
+Messungen oder in der Prozessentwicklung zu unterstützen?“
+Variante C (Kurzform für Folie 6 auf deinem iPad):
+Statt nur „Wie arbeitet die Gruppe?“ kannst du auf Folie 6 schreiben:
+Warum sie grundsätzlich richtig ist:1.
+Sie zeigt, dass du nicht nur denkst: „Was bringt mir das Praktikum?“, sondern:
+„Welchen konkreten Mehrwert bringt meine Mitarbeit für euch?“
+1.
+Das signalisiert Teamgeist, Einsatzbereitschaft und echtes Interesse am
+Arbeitsalltag des Instituts.
+2.
+Wie du die Frage noch präziser und professioneller stellen kannst:
+Wenn du die Frage ganz allgemein stellst („Wie kann ich zum Team beitragen?“),
+antwortet das Gegenüber oft auch nur sehr allgemein. Wenn du deine eigenen
+Fähigkeiten (Reinraum, 2D-Transfer, Spektroskopie, Origin) direkt einwebst, zeigst du
+sofort, dass du deine Stärken kennst.
+Lebenslauf_Rouaa_Albal…
+2.
+
+PAGE 21
+„Mögliche Einsatzbereiche: Wo kann ich mit meinen Vorkenntnissen (Transfer,
+Raman, PL, I-V) am besten unterstützen?“
+Lebenslauf_Rouaa_Albal…
+Fazit
+Die Frage ist im Kern völlig richtig. Kopiere sie am besten nicht als isolierten Einzel-Satz,
+sondern verknüpfe sie im Gespräch kurz mit deinen Fähigkeiten (wie in Variante A oder B) –
+das wirkt extrem souverän und unterstreicht deine bestehende Laborpraxis!
+Lebenslauf_Rouaa_Albal…
+aber ich möchte nicht nur unterstützen, ich möchte auch
+weiteres lernen
+Das ist eine exzellente und extrem wichtige Klarstellung! Du möchtest im Praktikum kein
+reiner Zuarbeiter sein, sondern dich fachlich weiterentwickeln und neue Verfahren erlernen.
+Genau diese Motivation unterscheidet eine hervorragende Bewerberin von einer
+durchschnittlichen.
+Nano-Bewerbungscoach
+Wir können deine 3 Spalten auf Folie 6 (und deine Antwort im Gespräch) so anpassen, dass
+deine Lernbereitschaft und dein Wissensdurst perfekt zur Geltung kommen.
+1. Anpassung auf Folie 6 (Dein iPad-Deck)
+Statt die mittlere Spalte nur passiv zu nennen, formulieren wir sie als aktiven Austausch
+zwischen Beitrag (Was ich gebe) und Lernziel (Was ich mitnehmen möchte):
+Ich bringe mit (Beitrag) Ich will lernen & vertiefen
+(Entwicklung)
+Meine Fragen
+Fertigung & Transfer: 2D-
+Materialien ( , Graphen,
+)
+Lebenslauf_Rouaa_Albal…
+Industrielle
+Halbleiterprozesse:
+Übertragung von Prototyping
+auf Serienfertigung
+Welches Projekt passt ab April
+am besten zu meinem Profil?WS  
+2
+hBN
+
+PAGE 22
+Ich bringe mit (Beitrag) Ich will lernen & vertiefen
+(Entwicklung)
+Meine Fragen
+Analytik: Raman-, PL- & -
+Messungen
+Lebenslauf_Rouaa_Albal…
+Sensorfertigung &
+Packaging: Kommerzielle
+Auslesekonzepte & Integration
+am Fraunhofer IMS
+Wie sieht die Einarbeitung und
+Betreuung im Team aus?
+Software: Auswertung in
+Origin, Python
+Lebenslauf_Rouaa_Albal…
+Erweiterte
+Charakterisierung: Neue
+Prüfverfahren & Industrie-
+Standards
+Wie läuft die interdisziplinäre
+Zusammenarbeit in der
+Gruppe?
+2. Wie du das im Gespräch perfekt auf den Punkt bringst
+Wenn du Folie 6 ansprichst oder Katherine und Philipp nach deiner Motivation fragen,
+kannst du das genauso sagen:
+„Mir ist wichtig zu betonen: Ich bringe aus meinem Studium und meiner
+Hilfskrafttätigkeit zwar solide Grundlagen im 2D-Transfer und der Optoelektronik
+mit – aber ich komme an das Fraunhofer IMS, um weiterzulernen. Ich möchte
+sehen, wie aus Forschung im Labor ein industrietaugliches Sensorprodukt wird.
+Mich interessiert brennend, welche Halbleiterprozesse und
+Charakterisierungsmethoden ihr hier verwendet, die über den Uni-Alltag
+hinausgehen. So kann ich mich fachlich weiterentwickeln und euch gleichzeitig
+von Tag 1 an produktiv unterstützen!“
+Lebenslauf_Rouaa_Albal…
+Warum das bei Fraunhofer extrem gut ankommt:
+I–V
+Kein Übermut: Du behauptest nicht, schon alles zu können (das wirkt sympathisch
+und bodenständig).
+Nano-Bewerbungscoach
+1.
+Echte Fraunhofer-DNA: Fraunhofer steht genau für den Technologietransfer aus der
+Uni-Forschung in die Industrie. Dass du genau diesen Schritt lernen willst, ist der
+beste Grund, dich einzustellen!
+2.

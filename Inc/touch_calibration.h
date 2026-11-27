@@ -1,0 +1,13 @@
+#ifndef V33_TOUCH_CALIBRATION_H
+#define V33_TOUCH_CALIBRATION_H
+#define TOUCH_TL_X 3841u
+#define TOUCH_TL_Y 244u
+#define TOUCH_TR_X 249u
+#define TOUCH_TR_Y 203u
+#define TOUCH_BL_X 3840u
+#define TOUCH_BL_Y 3742u
+#define TOUCH_BR_X 245u
+#define TOUCH_BR_Y 3769u
+#define TOUCH_CENTER_X 2032u
+#define TOUCH_CENTER_Y 2108u
+#endif

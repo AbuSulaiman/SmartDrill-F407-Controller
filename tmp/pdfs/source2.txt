@@ -1,0 +1,74 @@
+
+PAGE 1
+Exploration of Quantum Devices with Emerging Chiral Nanomaterials
+Author: Rouaa Albalkhi | Supervisor: Prof. Sandipan Pramanik
+Department of Electrical and Computer Engineering, University of Alberta
+e⁻
+INTRODUCTION
+As devices shrink toward atomic scale, the silicon based electronics are hitting fundamental physical 
+limits: heat dissipation, quantum interference, and leakage current. New materials are needed.
+Why Spintronics? Using the electron's intrinsic spin (↑ or ↓) alongside its charge as an information 
+carrier could enable faster, more energy efficient devices.
+Graphene: It exhibits exceptionally high carrier mobility, quantum mechanical effects at room 
+temperature, long spin lifetime.
+MOIRÉ PATTERN
+AMoiré pattern:
+Is the periodic interference pattern created
+when two layered material are stacked with
+a twist angle θ between their lattices, and
+this pattern itself forms a chiral, periodic
+potential that can filter electron spin, with
++θ and −θ giving opposite handedness, and
+0° giving no chirality at all.
+In our device, this occurs between two
+graphene layers: for angles between 0°
+and 30°.
+CISS EFFECT
+Chirality:
+describes a structure that cannot be
+superimposed on its mirror image, like a left and
+right hand.
+Methodology 
+The Device:
+References
+The Measurements
+We will measure the voltage across the Ni contact with its
+magnetization pointing up, then down, using an external field to flip
+it. Because Ni senses one spin direction more easily than the other,
+this voltage should differ between the two magnetization directions
+if the interface is genuinely filtering spin; a zero difference would
+mean no filtering at all. We will repeat this at five twist angles 0°,
++15°, −15°, +30°, −30° to see how, or whether, the effect
+depends on the twist.
+Figure 1. Moore‘s Law [1]
+The Challenge:
+Controlling electron spin traditionally requires strong magnetic fields and extreme cooling both
+impractical for real devices.
+Q: can we filter spin at room temperature, without a magnet? 
+Figure 2. Electron Spin 
+Figure 3. Graphene Honeycomb Lattice [2] 
+Figure 4. Chirality: Mirror Image [4] 
+Figure 5. The CISS Effect [3]  Figure 6. Twisted BilayerMoiré Pattern [5]
+Current is forced vertically through the twisted graphene interface, 
+so the twistangle θ itself becomes the spin-filtering element.
+Chirality Induced Spin Selectivity (CISS) [3]
+refers to a phenomenon where the chirality of a
+medium can influence the spin polarization of
+charge carriers passing through it.
+Figure 7. Device Stack Schematic
+Figure 8. Probe Station Used For Electrical Measurements
+[1] Timp, G., Howard, R. E., & Mankiewich, P. M. (1999). Nano-electronics for
+advanced computation and communication. In Nanotechnology (pp. 7-87).
+New York, NY: Springer New York.
+[2] Beadle, A. (2024, November 30). Graphene: What Is It, and What Is It
+Used For? Applied Sciences from Technology Networks;
+https://www.technologynetworks.com/applied-sciences/lists/graphene-
+what-is-it-and-what-is-it-used-for-393831
+[3] Firouzeh, S., Hossain, M. A., Cuerva, J. M., Álvarez de Cienfuegos, L., &
+Pramanik, S. (2024). Chirality-Induced Spin Selectivity in Composite
+Materials: A Device Perspective. Accounts of Chemical Research, 57(10),
+1478–1487. https://doi.org/10.1021/acs.accounts.4c00077
+[4] Introduction, A. (2022, October 6). Making Molecules. Making Molecules.
+https://www.makingmolecules.com/blog/chirality
+[5] Seeing Moiré in Graphene | NIST. (2010, April 27). NIST.
+https://www.nist.gov/news-events/news/2010/04/seeing-moire-graphene

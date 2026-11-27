@@ -1,0 +1,14 @@
+﻿Reference,Value / part,Selection notes
+Q1,"BTA24-800CWRG, insulated TO-220, 800 V / 25 A",Verify pins; heatsink calculation + full-load temperature test
+U1 / U2,"H11AA1 / MOC3052M, DIP-6",Maintain mains-to-LV barrier; U2 is random phase
+Q2 / U3,2N3904 / SN74LVC1G17DBVR,Verify B/C/E footprint; U3 requires the specified LVC family
+Q3 / Q4,2 x BSS138,I2C bidirectional translator; gate at 3V3
+R1 / R2 / R3,200R 1 W x2 / 330R 0.5 W,Gate limiting: pulse-rated / flameproof resistors
+R4 / C1,100R 2 W / 47 nF X2 305 VAC,Series snubber; tune after inductive-load measurements
+R5 / R6,"15k 2 W x2, flameproof, HV-rated",Zero-cross input; thermal clearance around resistors
+R7 / R8 / R9 / R10,10k / 180R 0.5 W / 1k / 10k,ZC pullup / opto LED / Q2 base / Q2 pulldown
+R11 / R12 / R13,1k / 10k / 1k,Hall series / Hall pullup / ADC series
+R14..R19 / RV2,10k x2; 4.7k x4 / 10k linear pot,Buttons / I2C / speed setting
+C2..C14,100 nF x8; 10 uF x3; 47 uF x1; 100 pF x1,Electrolytics >=10 V; C11/C12 are button filters
+RV1 / PS1,275 VAC MOV / certified isolated 5 V 1 A PSU,MOV thermal protection required; coordinate surge/fuse ratings
+F1 / K0 / HS1,Motor fuse / two-pole cutoff / heatsink,"Validate fuse; HS1 <=2 C/W initial target, thermal test required"

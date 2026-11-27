@@ -1,0 +1,2 @@
+[1001/194038.355:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:136] TransactNamedPipe: Kein Prozess ist am anderen Ende der Pipe. (0xE9)
+[1001/195009.161:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:136] TransactNamedPipe: Kein Prozess ist am anderen Ende der Pipe. (0xE9)

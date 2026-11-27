@@ -1,0 +1,52 @@
+
+PAGE 1
+ROUAA ALBALKHI
+B.Sc. NanoEngineering · 2D-Halbleiter · Optische und elektrische Charakterisierung
++49 152 28025948 | rouaaalbalkhi10@gmail.com | 47226 Duisburg
+PROFIL
+B.Sc.-Studentin NanoEngineering im 7. Semester (Gesamtnote 2,0, 135 CP) und Co-Autorin einer Publikation in Small. Erfahrung in
+Herstellung sowie optischer und elektrischer Charakterisierung von 2D-Halbleiter-Heterostrukturen. Suche ein dreimonatiges Pflichtpraktikum
+ab April 2027 in Sensorik und mikroelektronischen Systemen.
+AUSBILDUNG
+B.Sc. NanoEngineering 10/2023 – vorauss. 09/2027
+Universität Duisburg-Essen
+• Gesamtnote 2,0. Wahlbereich Nanoelektronik/Nanooptoelektronik: Optoelektronik (2,0), Elektronische Bauelemente (2,3),
+Festkörperelektronik (2,0), Nanocharakterisierung (1,3)
+Allgemeine Hochschulreife 07/2023
+Krupp-Gymnasium, Duisburg
+FORSCHUNGSERFAHRUNG
+Bachelorprojekt: Interlayer-Exzitonen in WS2/Cu2O-Heterostrukturen 2025/26, Note 1,3
+Universität Duisburg-Essen, AG Schleberger
+• Herstellung eines p-n-Übergangs aus WS2-Monolage und Cu2O; Transfer der WS2-Flocken mit dem Polystyrol-Verfahren
+• Raman-, temperatur- und spannungsabhängige Photolumineszenzmessungen sowie I-V-Kennlinien
+• Auswertung: Emission auf WS2-modifizierte Defektzustände des Cu2O zurückgeführt
+Mitacs Globalink Research Internship 05/2026 – 08/2026
+University of Alberta, Edmonton (Kanada)
+• Projekt „Exploration of Quantum Devices with Emerging Chiral Nanomaterials“
+• Herstellung eines Bauelementstapels aus zwei Graphen-Lagen mit definiertem Twist-Winkel und hBN durch Transfer
+• Ziel: Untersuchung der Spinselektivität (CISS-Effekt) im Twisted Bilayer; Präsentation auf dem Research Symposium
+PUBLIKATION
+O. Kharsah, J. von Kuczkowski, A. Shahin, R. Albalkhi, et al.: Anomalous Sub-Band Gap Emission at Room T emperature in
+Mixed-Dimensional WS2/Cu2O Heterostructures . Small 2026, e75662, DOI 10.1002/smll.75662
+BERUFSERFAHRUNG
+Studentische Hilfskraft, Experimentelle Physik seit 04/2026
+Universität Duisburg-Essen
+• Präparation und Charakterisierung von 2D-Materialien und Heterostrukturen
+• Raman-, Photolumineszenz- und elektrische Messungen
+Studentische Hilfskraft, Werkstoffe der Elektrotechnik seit 09/2025
+Universität Duisburg-Essen
+• Graphen-Transfer auf Saphir mit Polystyrol
+• Photolithografie und Aufdampfen im Reinraum
+Tutorin und Praktikumsbetreuung, Werkstoffe der Elektrotechnik 04/2025 – 02/2026
+Universität Duisburg-Essen
+• Betreuung im Basispraktikum zu dielektrischen, ferroelektrischen und ferromagnetischen Materialien (04/2025 – 10/2025)
+• Tutorin „Einführung in die Werkstoffe“ (10/2025 – 02/2026)
+Laborassistenz, NanoSchoolLab 07/2024 – 07/2025
+Schülerlabor der Universität Duisburg-Essen
+• Betreuung von Nanotechnologie-Experimenten für Schülergruppen
+KENNTNISSE
+Messtechnik: Raman-Spektroskopie, Photolumineszenz (WITec), I-V-Messungen
+Reinraum und Präparation: Photolithografie, Aufdampfen, Transfer von 2D-Materialien
+Grundkenntnisse: SEM, AFM, CVD (Laborpraktikum), Python, MATLAB
+Software: Origin, Microsoft Office
+Sprachen: Deutsch (C2), Englisch (C1), Arabisch (Muttersprache)
